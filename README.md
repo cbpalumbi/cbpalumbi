@@ -30,11 +30,11 @@ An AI-powered **multi-agent orchestration system** (built with Google ADK/Gemini
 *Prompt Example: "Build the latest version of the game on main."*
 
 [Watch Walkthrough](https://www.youtube.com/watch?v=frQN-aOUpBk) <br>
-[See Code](https://github.com/cbpalumbi/unity-build-agent)
+[See Code + Architecture Diagram](https://github.com/cbpalumbi/unity-build-agent)
 
-**AI/Agents:** &nbsp;&nbsp;&nbsp; <kbd>Google ADK</kbd> &nbsp;&nbsp;&nbsp;<kbd>Python</kbd> &nbsp;&nbsp;&nbsp; <kbd>Vertex AI/Gemini</kbd><br>
-**Orchestration:**  &nbsp;&nbsp;&nbsp;<kbd>Google Pub/Sub</kbd> &nbsp;&nbsp;&nbsp; <kbd>Google Cloud Run</kbd> &nbsp;&nbsp;&nbsp; <kbd>Google Cloud Storage</kbd><br>
-**Build Runner:** &nbsp;&nbsp;&nbsp; <kbd>Unity</kbd> &nbsp;&nbsp;&nbsp; <kbd>C#</kbd> &nbsp;&nbsp;&nbsp; <kbd>PowerShell</kbd> &nbsp;&nbsp;&nbsp; <kbd>Google Compute Engine</kbd> 
+**AI & Agents:** &nbsp;&nbsp;&nbsp; <kbd>Google ADK</kbd> &nbsp;&nbsp;&nbsp; <kbd>Vertex AI/Gemini</kbd> &nbsp;&nbsp;&nbsp;<kbd>Python</kbd><br>
+**Cloud Orchestration:**  &nbsp;&nbsp;&nbsp;<kbd>Google Pub/Sub</kbd> &nbsp;&nbsp;&nbsp; <kbd>Google Cloud Run</kbd> &nbsp;&nbsp;&nbsp; <kbd>Google Cloud Storage</kbd>&nbsp;&nbsp;&nbsp;<kbd>Google Compute Engine</kbd> <br> 
+**Build System:** &nbsp;&nbsp;&nbsp; <kbd>Unity</kbd> &nbsp;&nbsp;&nbsp; <kbd>C#</kbd> &nbsp;&nbsp;&nbsp; <kbd>PowerShell</kbd>
 
 ### 3️⃣ Smaller Projects
 [3D Asset Browser with ML Tag Prediction](https://github.com/cbpalumbi/AiAssetBrowser): &nbsp;&nbsp;&nbsp; <kbd>C++</kbd> &nbsp;&nbsp;&nbsp; <kbd>Qt</kbd> &nbsp;&nbsp;&nbsp; <kbd>Python</kbd>  <br>

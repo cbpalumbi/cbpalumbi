@@ -25,9 +25,9 @@ A full-stack, end-to-end LiveOps configuration and simulation application design
 
 ### 2️⃣ DevFlow.ai: Natural Language-Powered Unity Build Automation
 
-An AI-powered **multi-agent orchestration system** (built with Google ADK/Gemini) that allows game developers and artists to trigger complex tasks—like builds, asset previews, and Git operations—via simple natural language prompts. It automates manual Git/Unity Editor configs and remote cloud ops, letting you focus on the creative.
+An AI-powered **multi-agent orchestration system** (built with Google ADK/Gemini) that allows game developers and artists to trigger complex tasks—like builds, asset previews, and Git operations, all via simple natural language prompts. It automates manual Git/Unity Editor configs and remote cloud ops, letting you focus on the creative.
 
-*Example: "Build the latest version of the game on main."*
+*Prompt Example: "Build the latest version of the game on main."*
 
 [Watch Walkthrough](https://www.youtube.com/watch?v=frQN-aOUpBk) <br>
 [See The Code](https://github.com/cbpalumbi/unity-build-agent)

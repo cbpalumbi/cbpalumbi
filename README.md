@@ -18,7 +18,7 @@ A full-stack simulation and visualization system for automating LiveOps configur
 [See Code](https://github.com/cbpalumbi/liveops-dashboard)
 
 **Frontend:** &nbsp;&nbsp;&nbsp;<kbd>React</kbd>&nbsp;&nbsp;&nbsp; <kbd>Vite</kbd>&nbsp;&nbsp;&nbsp; <kbd>Tailwind CSS</kbd>&nbsp;&nbsp;&nbsp; <kbd>Recharts</kbd><br>
-**Backend:** &nbsp;&nbsp;&nbsp;<kbd>Python</kbd>&nbsp;&nbsp;&nbsp; <kbd>FastAPI + Pydantic</kbd>&nbsp;&nbsp;&nbsp; <kbd>SQLite</kbd> &nbsp;&nbsp;&nbsp; <kbd>SQLAlchemy</kbd> &nbsp;&nbsp;&nbsp;<kbd>Pytest</kbd><br> 
+**Backend:** &nbsp;&nbsp;&nbsp;<kbd>Python</kbd>&nbsp;&nbsp;&nbsp; <kbd>FastAPI + Pydantic</kbd>&nbsp;&nbsp;&nbsp; <kbd>SQLite</kbd> &nbsp;&nbsp;&nbsp;<kbd>SQLAlchemy</kbd> &nbsp;&nbsp;&nbsp;<kbd>Pytest</kbd><br> 
 **ML:** &nbsp;&nbsp;&nbsp;<kbd>Multi-Armed Bandit</kbd>&nbsp;&nbsp;&nbsp; <kbd>Segmented MAB</kbd> 
 
 ---
@@ -33,7 +33,7 @@ An AI-powered **multi-agent orchestration system** (built with Google ADK/Gemini
 [See Code + Architecture Diagram](https://github.com/cbpalumbi/unity-build-agent)
 
 **AI & Agents:** &nbsp;&nbsp;&nbsp; <kbd>Google ADK</kbd> &nbsp;&nbsp;&nbsp; <kbd>Vertex AI/Gemini</kbd> &nbsp;&nbsp;&nbsp;<kbd>Python</kbd><br>
-**Cloud Orchestration:**  &nbsp;&nbsp;&nbsp;<kbd>Google Pub/Sub</kbd> &nbsp;&nbsp;&nbsp; <kbd>Google Cloud Run</kbd> &nbsp;&nbsp;&nbsp; <kbd>Google Cloud Storage</kbd>&nbsp;&nbsp;&nbsp;<kbd>Google Compute Engine</kbd> <br> 
+**Cloud Orchestration:** &nbsp;&nbsp;&nbsp;<kbd>Google Pub/Sub</kbd> &nbsp;&nbsp;&nbsp;<kbd>Google Cloud Run</kbd>&nbsp;&nbsp;&nbsp; <kbd>Google Cloud Storage</kbd> &nbsp;&nbsp;&nbsp;<kbd>Google Compute Engine</kbd><br> 
 **Build System:** &nbsp;&nbsp;&nbsp; <kbd>Unity</kbd> &nbsp;&nbsp;&nbsp; <kbd>C#</kbd> &nbsp;&nbsp;&nbsp; <kbd>PowerShell</kbd>
 
 ### 3️⃣ Smaller Projects

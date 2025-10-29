@@ -38,7 +38,7 @@ An AI-powered **multi-agent orchestration system** (built with Google ADK/Gemini
 **Build Runner:** &nbsp;&nbsp;&nbsp; <kbd>Unity (C#)</kbd> &nbsp;&nbsp;&nbsp; <kbd>PowerShell</kbd> &nbsp;&nbsp;&nbsp; <kbd>Compute Engine</kbd>
 
 ### 3️⃣ Smaller Projects
-[3D Asset Browser with ML Tag Prediction](https://github.com/cbpalumbi/AiAssetBrowser): &nbsp;&nbsp;&nbsp; <kbd>C++</kbd> &nbsp;&nbsp;&nbsp; <kbd>Qt</kbd> &nbsp;&nbsp;&nbsp; <kbd>Python</kbd>
+[3D Asset Browser with ML Tag Prediction](https://github.com/cbpalumbi/AiAssetBrowser): &nbsp;&nbsp;&nbsp; <kbd>C++</kbd> &nbsp;&nbsp;&nbsp; <kbd>Qt</kbd> &nbsp;&nbsp;&nbsp; <kbd>Python</kbd>  <br>
 [VR Design App With Version History Navigation](https://github.com/cbpalumbi/vr-version-history-demo)  &nbsp;&nbsp;&nbsp; <kbd>Unity</kbd> &nbsp;&nbsp;&nbsp; <kbd>C#</kbd> &nbsp;&nbsp;&nbsp; <kbd>Meta Quest</kbd>
 
 

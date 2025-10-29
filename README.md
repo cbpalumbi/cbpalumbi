@@ -2,7 +2,7 @@
 # Welcome to my GitHub! 
 
 <p>
-I'm a Full-Stack Software Engineer (3+ years) specializing in <strong>Game & Tools Development</strong>. My projects here focus on leveraging emerging technologies, like AI, VR, and cloud infrastructure, to build smarter, faster, and more creative development pipelines.
+I'm a Full-Stack Software Engineer (3+ years) specializing in <strong>Game & Tools Development</strong>. My projects here focus on leveraging emerging technologies like AI, VR, and cloud infrastructure to build smarter, faster, and more creative development pipelines.
 </p>
 
 ---

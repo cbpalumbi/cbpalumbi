@@ -14,6 +14,7 @@ I'm a Full-Stack Software Engineer (3+ years) specializing in <strong>Game & Too
 A full-stack simulation and visualization system for automating LiveOps configuration and optimization using Multi-Armed Bandit (MAB) algorithms. It focuses on the core principle of exploration vs. exploitation to drive  higher game tutorial completion rates, improving upon traditional A/B testing.
 
 [Watch Demo Video](https://www.youtube.com/watch?v=vEyCZdIfBWY) <br>
+[Read the Blog Post](https://medium.com/@christabellapalumbi/beyond-a-b-testing-automating-liveops-optimization-with-a-multi-armed-bandit-dashboard-ed22cc78b9ef) <br>
 [See The Code](https://github.com/cbpalumbi/liveops-dashboard)
 
 **Frontend:** &nbsp;&nbsp;&nbsp;<kbd>React</kbd>&nbsp;&nbsp;&nbsp; <kbd>Vite</kbd>&nbsp;&nbsp;&nbsp; <kbd>Tailwind CSS</kbd>&nbsp;&nbsp;&nbsp; <kbd>Recharts</kbd><br>

@@ -11,7 +11,7 @@ I'm a Full-Stack Software Engineer (3+ years) specializing in <strong>Game & Too
 
 ### 1️⃣ LiveOps Optimization Dashboard: Multi-Armed Bandit A/B Testing Platform
 
-A full-stack simulation and visualization system for automating LiveOps configuration and optimization using Multi-Armed Bandit (MAB) algorithms. It focuses on the core principle of exploration vs. exploitation to drive superior business outcomes like higher tutorial completion rates, improving upon traditional A/B testing.
+A full-stack simulation and visualization system for automating LiveOps configuration and optimization using Multi-Armed Bandit (MAB) algorithms. It focuses on the core principle of exploration vs. exploitation to drive  higher game tutorial completion rates, improving upon traditional A/B testing.
 
 [Watch Demo Video](https://www.youtube.com/watch?v=vEyCZdIfBWY) <br>
 [See The Code](https://github.com/cbpalumbi/liveops-dashboard)

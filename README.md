@@ -2,7 +2,7 @@
 # Welcome to my GitHub! 
 
 <p>
-I'm a Full-Stack Software Engineer (2+ years) specializing in <strong>Game & Tools Development</strong>. My projects here focus on leveraging emerging technologies to build smarter, faster, and more creative development pipelines.
+Software engineer specializing in tools and pipelines for real-time 3D engines. I build the foundational systems that help teams ship faster and do more ambitious work.
 </p>
 
 ## Featured Projects
@@ -37,6 +37,7 @@ A full-stack simulation and visualization system for automating LiveOps configur
 ---
 
 ### 3️⃣ Smaller Projects
+[C++ Asset Registry Library for Memory Management](https://github.com/cbpalumbi/asset-registry) &nbsp;&nbsp;&nbsp; <kbd>C++</kbd> 
 [3D Asset Browser with ML Tag Prediction](https://github.com/cbpalumbi/AiAssetBrowser): &nbsp;&nbsp;&nbsp; <kbd>C++</kbd> &nbsp;&nbsp;&nbsp; <kbd>Qt</kbd> &nbsp;&nbsp;&nbsp; <kbd>Python</kbd>  <br>
 [VR Design App With Version History Navigation](https://github.com/cbpalumbi/vr-version-history-demo)  &nbsp;&nbsp;&nbsp; <kbd>Unity</kbd> &nbsp;&nbsp;&nbsp; <kbd>C#</kbd> &nbsp;&nbsp;&nbsp; <kbd>Meta Quest</kbd>
 

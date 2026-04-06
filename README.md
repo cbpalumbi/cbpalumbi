@@ -37,7 +37,7 @@ A full-stack simulation and visualization system for automating LiveOps configur
 ---
 
 ### 3️⃣ Smaller Projects
-[C++ Asset Registry Library for Memory Management](https://github.com/cbpalumbi/asset-registry) &nbsp;&nbsp;&nbsp; <kbd>C++</kbd> 
+[C++ Asset Registry Library for Memory Management](https://github.com/cbpalumbi/asset-registry) &nbsp;&nbsp;&nbsp; <kbd>C++</kbd> <br>
 [3D Asset Browser with ML Tag Prediction](https://github.com/cbpalumbi/AiAssetBrowser): &nbsp;&nbsp;&nbsp; <kbd>C++</kbd> &nbsp;&nbsp;&nbsp; <kbd>Qt</kbd> &nbsp;&nbsp;&nbsp; <kbd>Python</kbd>  <br>
 [VR Design App With Version History Navigation](https://github.com/cbpalumbi/vr-version-history-demo)  &nbsp;&nbsp;&nbsp; <kbd>Unity</kbd> &nbsp;&nbsp;&nbsp; <kbd>C#</kbd> &nbsp;&nbsp;&nbsp; <kbd>Meta Quest</kbd>
 

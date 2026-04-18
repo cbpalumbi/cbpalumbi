@@ -5,6 +5,12 @@
 Software engineer specializing in tools and pipelines for real-time 3D engines. I build the foundational systems that help teams ship faster and do more ambitious work.
 </p>
 
+
+## Currently Working On:
+### C++ In-Memory Asset Cache 
+A C++ asset registry that tracks asset reference lifetimes via RAII handles and evicts with an LRU policty implemented with a doubly linked list and a hashmap.
+[See Code](https://github.com/cbpalumbi/asset-registry)
+
 ## Featured Projects
 
 ### 1️⃣ DevFlow.ai: Natural Language-Powered Unity Build Automation

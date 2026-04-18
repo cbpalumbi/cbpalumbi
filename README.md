@@ -8,7 +8,7 @@ Software engineer specializing in tools and pipelines for real-time 3D engines. 
 
 ## Currently Working On:
 ### C++ In-Memory Asset Cache 
-Asset registry that tracks asset reference lifetimes via RAII handles and evicts with an LRU policty implemented with a doubly linked list and a hashmap.
+Asset registry that tracks asset reference lifetimes via RAII handles and evicts with an LRU policy (implemented with a doubly linked list + hashmap). Unit test suite in gTest.
 
 [See Code](https://github.com/cbpalumbi/asset-registry)
 
